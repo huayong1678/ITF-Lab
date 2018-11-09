@@ -2,13 +2,13 @@
     <head>
         <meta charset="UTF-8">
         <title>iTAX : Calculated</title>
+    </head>
+    <body background="background.png">
         <table>
             <tr>
                 <th><img src="logo.png" height="100px"></th>
             </tr>
         </table><br>
-    </head>
-    <body background="background.png">
     <?php
     $a = $_POST["name"];
     $b = $_POST["date"];
